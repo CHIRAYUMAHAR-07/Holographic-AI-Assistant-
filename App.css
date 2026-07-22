@@ -1,0 +1,51 @@
+.app {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .stage {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  .topbar {
+    background: #ffffff;
+    border-bottom: 3px solid #f0e6d3;
+    padding: 12px 20px;
+  }
+  
+  .topbar h2 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    color: #2d2d2d;
+  }
+  
+  .content {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 380px 1fr;
+    overflow: hidden;
+  }
+  
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f0e6d3;
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #ff6b35;
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #d4501e;
+  }
