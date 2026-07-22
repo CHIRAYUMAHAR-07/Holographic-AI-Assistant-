@@ -1,10 +1,10 @@
-# 🤖 Virtual Holographic AI Assistant
+# Virtual Holographic AI Assistant
 
 > An AI-powered virtual holographic assistant that combines Conversational AI, Natural Language Processing, Speech Synthesis, Avatar Animation, and Holographic Projection to deliver an immersive and interactive user experience.
 
 ---
 
-# 📖 Introduction
+# Introduction
 
 Virtual Holographic AI Assistant is an intelligent conversational platform designed to redefine human-computer interaction by integrating Artificial Intelligence with holographic visualization. Unlike conventional virtual assistants that rely on text or voice interfaces alone, this project presents responses through a realistic holographic avatar capable of speaking naturally while synchronizing facial expressions and lip movements.
 
@@ -14,7 +14,7 @@ The primary objective of this project is to create an engaging, affordable, and 
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The objectives of this project are:
 
@@ -27,15 +27,15 @@ The objectives of this project are:
 
 ---
 
-# 🚀 Features
+# Features
 
-### 🤖 Conversational AI
+### Conversational AI
 
 The assistant understands user queries through Natural Language Processing techniques including intent recognition and contextual understanding. It is capable of generating meaningful responses while maintaining conversational flow.
 
 ---
 
-### 🎤 Voice Interaction
+### Voice Interaction
 
 Users can communicate naturally using speech.
 
@@ -48,7 +48,7 @@ The assistant:
 
 ---
 
-### 😊 Avatar Animation
+### Avatar Animation
 
 The generated responses are synchronized with an animated digital avatar.
 
@@ -61,7 +61,7 @@ Features include:
 
 ---
 
-### 🪞 Holographic Projection
+### Holographic Projection
 
 Instead of displaying the assistant on a traditional screen, the avatar is projected as a hologram using the Pepper's Ghost illusion.
 
@@ -74,7 +74,7 @@ Advantages:
 
 ---
 
-### ⚙ Modular Design
+### Modular Design
 
 The entire system is modular.
 
@@ -91,7 +91,7 @@ Modules include:
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 The assistant follows a layered architecture.
 
@@ -127,7 +127,7 @@ The assistant follows a layered architecture.
 
 ---
 
-# 🔄 Working Pipeline
+# Working Pipeline
 
 The complete workflow of the system is illustrated below.
 
@@ -188,7 +188,7 @@ The holographic pyramid reflects the projected image, creating the illusion of a
 
 ---
 
-# 💻 Technology Stack
+# Technology Stack
 
 ## Programming Language
 
@@ -242,7 +242,7 @@ The holographic pyramid reflects the projected image, creating the illusion of a
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Virtual-Holographic-AI-Assistant/
@@ -269,7 +269,7 @@ Virtual-Holographic-AI-Assistant/
 
 ---
 
-# 🌟 Key Highlights
+# Key Highlights
 
 - Developed an AI-powered conversational assistant.
 - Implemented Natural Language Processing for intelligent conversations.
@@ -281,9 +281,9 @@ Virtual-Holographic-AI-Assistant/
 
 ---
 
-# 🎯 Applications
+# Applications
 
-## 📚 Education
+## Education
 
 - AI Tutor
 - Storytelling
@@ -293,7 +293,7 @@ Virtual-Holographic-AI-Assistant/
 
 ---
 
-## 🏥 Healthcare
+## Healthcare
 
 - Child Patient Assistance
 - Hospital Information
@@ -302,7 +302,7 @@ Virtual-Holographic-AI-Assistant/
 
 ---
 
-## 🏠 Smart Home
+## Smart Home
 
 - Personal AI Assistant
 - Voice-Based Information System
@@ -310,7 +310,7 @@ Virtual-Holographic-AI-Assistant/
 
 ---
 
-## 🏛 Museums
+## Museums
 
 - Interactive Historical Guide
 - Science Exhibitions
@@ -318,7 +318,7 @@ Virtual-Holographic-AI-Assistant/
 
 ---
 
-## 🎮 Entertainment
+## Entertainment
 
 - AI Companion
 - Story Narration
@@ -326,7 +326,7 @@ Virtual-Holographic-AI-Assistant/
 
 ---
 
-# 📈 Project Outcomes
+# Project Outcomes
 
 The implementation of the Virtual Holographic AI Assistant demonstrates several significant outcomes:
 
@@ -339,7 +339,7 @@ The implementation of the Virtual Holographic AI Assistant demonstrates several 
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 Future improvements may include:
 
@@ -356,7 +356,7 @@ Future improvements may include:
 
 ---
 
-# 📸 Demo
+# Demo
 
 Add screenshots or demonstration GIFs here.
 
@@ -366,7 +366,7 @@ Add screenshots or demonstration GIFs here.
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -380,13 +380,13 @@ If you would like to improve this project:
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ## Chirayu Mahar
 
@@ -394,7 +394,7 @@ AI Systems & Automation Engineer
 
 📧 Email: chirayumahar@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/chirayumahar
+🔗 LinkedIn: https://www.linkedin.com/in/chirayumahar/
 
 💻 GitHub: https://github.com/CHIRAYUMAHAR-07
 
